@@ -1,0 +1,4 @@
+{
+    "command": "dotnet run --urls \"http://<host>:<port>\"",
+    "working_directory": "/home/kavia/workspace/code-generation/typescript-class-parser-35245-35254/typescript_parser_backend"
+}
